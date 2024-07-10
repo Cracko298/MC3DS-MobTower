@@ -9,7 +9,8 @@
 - Massive Amounts of Hidden Ore-Blocks to Find and fight towards.
 
 ## Reccomended Mods to Use:
-- `No Mob Spawn Cap`, gives you a huge challenge in fending off these Mobs. If you're looking something Harder. Definitely try it out in Combination with this Mod.
+- `No Mob Spawn Cap`, gives you a huge challenge in fending off these Mobs.
+- If you're looking for something that gives more of a Challenge. Definitely try it out in Combination with this Mod.
 
 ## Screenshots:
 ![image](https://github.com/Minecraft-3DS-Community/MC3DS-MobTower/assets/78656905/bb560dfb-384a-485b-9487-1d00bf5143d8)
