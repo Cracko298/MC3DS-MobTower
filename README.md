@@ -12,6 +12,11 @@
 - `No Mob Spawn Cap`, gives you a huge challenge in fending off these Mobs.
 - If you're looking for something that gives more of a Challenge. Definitely try it out in Combination with this Mod.
 
+## Download(s):
+- Download Directly from the [Minecraft 3DS UniStore](https://github.com/Minecraft-3DS-Community/minecraft-3ds-unistore).
+- No direct Download Link provided.
+
+
 ## Screenshots:
 ![image](https://github.com/Minecraft-3DS-Community/MC3DS-MobTower/assets/78656905/bb560dfb-384a-485b-9487-1d00bf5143d8)
 ![image](https://github.com/Minecraft-3DS-Community/MC3DS-MobTower/assets/78656905/4445cc76-2610-4926-b25c-83fc619280cd)
